@@ -1,0 +1,5 @@
+venv/
+venv
+
+train.csv
+DAS1.ipynb
